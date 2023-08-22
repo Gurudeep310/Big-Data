@@ -1,2 +1,2 @@
 # Big-Data
-Contains Projects done in the Domain Big Data
+Contains projects done in the course Big Data AI3201
